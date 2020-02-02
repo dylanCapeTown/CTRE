@@ -18,12 +18,12 @@ img {
   background: url(../img/showcase.jpg) no-repeat top center fixed/cover;
   position: relative;
   min-height: 650px;
-  color: #fff;
   padding-top: 6rem; }
   #showcase .home-search {
     min-height: 400px;
     position: relative;
-    border-radius: 5px; }
+    border-radius: 5px; 
+    color: #fff;}
   #showcase .overlay {
     content: '';
     position: absolute;
