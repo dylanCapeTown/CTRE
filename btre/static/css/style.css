@@ -1,11 +1,15 @@
-.btn-secondary {
-  color: #fff !important; }
+.btn-secondary {  
+  color: #fff !important; 
+  width:20em; 
+  margin: 0 auto;
+  display: block; }
 
 img {
   width: 100%; }
 
 .logo {
-  width: 80px; }
+  width: 70px;
+  height: 70px; }
 
 .navbar {
   opacity: 0.9;
