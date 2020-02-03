@@ -15,8 +15,7 @@ img {
   margin-right: 0.4rem; }
 
 #showcase {
-  /* color: black !important;  */
-  background: url(../img/showcase.jpg) no-repeat top center fixed/cover;
+  background: url(../img/North_Wharf.jpg) no-repeat top center fixed/cover;
   position: relative;
   min-height: 650px;
   padding-top: 6rem; }
